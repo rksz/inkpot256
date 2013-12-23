@@ -1,3 +1,6 @@
-## inkpot.vim 256 edition
-- originally created by Ciaran McCreesh
-- see also: http://www.vim.org/scripts/script.php?script_id=1143
+## About
+inkpot256 is converted by "CSApprox" GUI color scheme converter.
+
+Please check following scripts
+- (CSApprox)[https://github.com/vim-scripts/CSApprox]
+- (ciaranm/inkpot)[https://github.com/ciaranm/inkpot]
